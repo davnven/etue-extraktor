@@ -7,7 +7,7 @@ Das Werkzeug läuft vollständig im Browser. Das PDF wird nirgends hochgeladen.
 ## Benutzen
 
 1. Die Seite öffnen (Link von GitHub Pages, siehe unten).
-2. Das PDF hineinziehen – ganzes Heft oder einzelner Artikel.
+2. Das PDF hineinziehen, als ganzes Heft oder einzelner Artikel.
 3. Links den Artikel wählen. In der Mitte zeigen farbige Kästen, was als Titel, Lead, Text usw. erkannt wurde.
    - Kasten anklicken → Typ ändern, früher/später, mit dem vorherigen verbinden, löschen.
    - Auf der Seite ziehen → neuen Kasten zeichnen (auch über gelöschtem Text).
@@ -56,9 +56,9 @@ Nur `heft.json` ändern (direkt auf GitHub mit dem Stift-Symbol):
 ```
 
 - `farbe`: Farbe des Covers als Farbcode.
-- `schriftfarbe`: Schrift auf dieser Farbe – `#111111` (schwarz) bei hellen, `#ffffff` (weiss) bei dunklen Farben.
+- `schriftfarbe`: Schrift auf dieser Farbe (`#111111` (schwarz) bei hellen, `#ffffff` (weiss) bei dunklen Farben.)
 
-Nach dem Speichern baut GitHub die Seite automatisch neu (1–2 Minuten).
+Nach dem Speichern baut GitHub die Seite automatisch neu (1-2 Minuten).
 
 ## Aufbau
 
